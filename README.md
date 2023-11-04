@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Abstract.ai**
 
-- 🌱 I’m currently learning **Data science, Machine learningArtificial**
+- 🌱 I’m currently learning **Data science, Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishun-Projects/Vishun-Projects](https://github.com/Vishun-Projects/Vishun-Projects)
 
